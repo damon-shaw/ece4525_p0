@@ -1,4 +1,15 @@
 /**
+ * @author Damon A. Shaw (admins@vt.edu)
+ * @version 1.0.0
+ * Created September 6th, 2019
+ * 
+ * Honor Code Statement: I did not give or recieve any unauthorized assistance on this assignment.
+ * This program is my own program, and no program segements, procedures, or functions were copied
+ * from any source or provided to any other students.
+ */
+
+
+/**
  * Creates a new SlotMachine object.
  * @class
  */
